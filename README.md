@@ -25,6 +25,8 @@ __Vallard:__ Stability Loving Operations guy.
 * HiPPO doesn't work (Vallard)
 * Waterfall vs. Agile Dev (Chris)
 
+__DEMO:__ Change the color of our website
+
 ## 2.  How Do we get to Fast? 
 * Operation care abouts (Vallard)
 * Dev care abouts (Chris)
@@ -44,7 +46,7 @@ __Vallard:__ Stability Loving Operations guy.
 * Immutable Infrastructure
 * Infrastructure as Code
 
-__DEMO 1:__ Kubernetes with Terraform
+__DEMO:__ Kubernetes with Terraform
 
 ## 3.  How to do Fast Safely? 
 * Security (Chris)
@@ -52,7 +54,7 @@ __DEMO 1:__ Kubernetes with Terraform
 * Communication (Vallard)
 * TLS all the things (Vallard)
 
-__DEMO 2:__ Spark Integration with our Toolchain
+__DEMO:__ Spark Integration with our Toolchain
 
 ## 4. Let's Do Fast!
 
