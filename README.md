@@ -6,7 +6,7 @@ __Chris:__ Busy Creative Charasmatic Opinionated Developer guy.
 
 __Vallard:__ Stability Loving Operations guy. 
 
-## Opening
+## Opening (Chris and Vallard)
 
 * Why are you here? 
 	* Because you want ideas
@@ -18,26 +18,27 @@ __Vallard:__ Stability Loving Operations guy.
 	* Gene Kim Slide
 
 ## 1. Why Go Fast? 
-* Compete
-* Improve ability to Respond/Shift
-* HiPPO doesn't work
-* Eliminate Waste
-* Waterfall vs. Agile Dev
+
+* Improve ability to Respond/Shift (Chris)
+* Compete (Vallard)
+* Eliminate Waste (Chris)
+* HiPPO doesn't work (Vallard)
+* Waterfall vs. Agile Dev (Chris)
 
 ## 2.  How Do we get to Fast? 
-* Operation care abouts
-* Dev care abouts
-* change vs. Delivery
-* Traditional IT is slow
-* Reorgs (merge dev + ops)
+* Operation care abouts (Vallard)
+* Dev care abouts (Chris)
+* change vs. Delivery (Vallard)
+* Traditional IT is slow (Chris)
+* Reorgs (merge dev + ops) (Chris)
 
-### 2.1 How do I as a developer go faster? 
+### 2.1 How do I as a developer go faster? (Chris)
 * Extreme programming
 * SCRUM
 * Kanban boards
 * Standups
 
-### 2.2 How do I as an Ops guy go faster? 
+### 2.2 How do I as an Ops guy go faster? (Vallard)
 * Containers
 * Automation
 * Immutable Infrastructure
@@ -46,29 +47,37 @@ __Vallard:__ Stability Loving Operations guy.
 __DEMO 1:__ Kubernetes with Terraform
 
 ## 3.  How to do Fast Safely? 
-* Security
-* Communication
-* TLS all the things
+* Security (Chris)
+* Don't check passwords into github! (Chris)
+* Communication (Vallard)
+* TLS all the things (Vallard)
 
 __DEMO 2:__ Spark Integration with our Toolchain
 
 ## 4. Let's Do Fast!
 
-### 4.1 Develop Fast
+### 4.1 Develop Fast (Chris)
 * IaaS
 * Git
 * Docker
 
-### 4.2 Dev+Ops Fast
+### 4.2 Dev+Ops Fast (Chris and Vallard)
 * IaaS vs. PaaS vs. CaaS
 * Kubernetes
+* Languages? 
+	* Chris expound on virtues of Python
+	* Vallard expound on virtues of Go
 * Laptop environment
+	* Macdown
+	* VIM
+	* Git tools
+	* ~/.bash_profile
 
-### 4.3 Operations Fast
+### 4.3 Operations Fast (Vallard)
 * CI/CD
 * Type 1 vs. Type 2: (Jenkins vs. Drone)
 * Monitoring (Prometheus)
-
+* ELK
 
 ### 4.4 Putting it all together
 * One slide to rule them all
